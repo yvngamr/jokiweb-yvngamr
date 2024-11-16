@@ -23,6 +23,7 @@ h1, h2, h3 {
     font-family: 'Bangers', cursive;
     color: #e23636;
     margin-bottom: 20px;
+    letter-spacing: 2px;
 }
 
 h1 {
